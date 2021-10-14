@@ -8,9 +8,9 @@ field|type|description
 :----|:---|:----------
 `date`|datetime|The planned date of the event
 `event_list`|string|The items planned for the event
-`time_zone`|string|The time zone of the event
+`time_zone`|string|The abbreviation of the time zone of the event
 `timestamp`|datetime|The date and time of the event
-`description`|string|A description of the event
+`description`|string|The name of the time zone
 `press_event`|boolean|Was the press allowed access?
 `press_category`|string|What type of press access was allowed?
 `involves_biden`|boolean|Was President Biden present?
