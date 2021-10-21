@@ -6,6 +6,7 @@ Drawn from the Los Angeles Times article "What’s on Kamala Harris’ calendar?
 
 field|type|description
 :----|:---|:----------
+`order`|string|The chronological order of events
 `time_zone`|string|The abbreviation of the time zone of the event
 `timestamp`|datetime|The date and time of the event
 `event_list`|string|The items planned for the event
