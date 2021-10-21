@@ -14,7 +14,7 @@ field|type|description
 `press_category`|string|What type of press access was allowed?
 `involves_biden`|boolean|Was President Biden present?
 `involves_world_leader`|boolean|Was the vice president meeting with a world leader?
-`involves_travel`|boolean|Did the event involve travel?
+`involves_flight`|boolean|Did the event involve air travel?
 `involves_covid`|boolean|Did the event involve COVID-19?
 `involves_voting`|boolean|Did the event involve voting rights?
 `involves_immigration`|boolean|Did the event involve immigration policy?
