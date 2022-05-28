@@ -1,4 +1,5 @@
 order,timestamp,time_zone,event_list,press_event,press_category,involves_biden,involves_world_leader,involves_flight,involves_covid,involves_voting,involves_immigration,involves_afghanistan
+793,2022-05-27 00:00:00,,"The Vice President will be in Washington, DC and has no public events scheduled.",False,none,False,False,False,False,False,False,False
 792,2022-05-26 13:45:00,EDT,The Vice President will receive the President's Daily Brief. This meeting in the Oval Office will be closed press.,True,closed,True,False,False,False,False,False,False
 791,2022-05-25 16:00:00,EDT,"The Vice President will join President Biden to give remarks at the signing of the Executive Order to advance effective, accountable policing and strengthen public safety. This event in the East Room will be open to pre-credentialed media.",True,open,False,False,False,False,False,False,False
 790,2022-05-24 19:20:00,EDT,"The Vice President will give remarks at the Asian Pacific American Institute for Congressional Studies 20th Annual Awards Gala. These remarks at the Renaissance Hotel in Washington, DC will be pooled press.",True,open,False,False,False,False,False,False,False
