@@ -1,4 +1,5 @@
 order,timestamp,time_zone,event_list,press_event,press_category,involves_biden,involves_world_leader,involves_flight,involves_covid,involves_voting,involves_immigration,involves_afghanistan
+872,2022-07-20 00:00:00,,"The Vice President will be in Washington, D.C. and has no public events scheduled.",False,none,False,False,False,False,False,False,False
 871,2022-07-19 10:00:00,EDT,The Vice President will receive the President's Daily Brief. This meeting in the Oval Office will be closed press.,True,closed,True,False,False,False,False,False,False
 870,2022-07-18 14:50:00,EDT,"The Vice President will depart Atlantic City, NJ en route Washington, D.C. This departure from Atlantic City International Airport and arrival at Joint Base Andrews will be pooled press.",True,open,False,False,True,False,False,False,False
 869,2022-07-18 13:05:00,EDT,The Vice President will hold a roundtable with New Jersey state legislators to discuss the fight for reproductive rights. This meeting at the Atlantic City Convention Center will have a pool spray for opening remarks.,True,limited,False,False,False,False,False,False,False
