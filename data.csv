@@ -1,4 +1,10 @@
 order,timestamp,time_zone,event_list,press_event,press_category,involves_biden,involves_world_leader,involves_flight,involves_covid,involves_voting,involves_immigration,involves_afghanistan
+1405,2022-08-29 00:00:00,,"At 1:00PM ET on Monday, August 29, 2022, the Vice President and Second Gentleman will depart Kennedy Space Center, Florida en route to Washington, DC. The departure from NASA Shuttle Landing and arrival at Joint Base Andrews will be pooled press.",True,open,False,False,True,False,False,False,False
+1404,2022-08-29 00:00:00,,"At 12:00 PM ET on Monday, August 29, 2022,the Vice President will deliver remarks regarding the Artemis I launch. The remarks will be open to pre-credentialed media and livestreamed at whitehouse.gov/live.",True,open,False,False,False,False,False,False,False
+1403,2022-08-29 00:00:00,,"At 10:05AM ET on Monday, August 29, 2022, the Vice President and Second Gentleman will tour Artemis II and Artemis III mission hardware. The tour will be pooled press.",True,open,False,False,False,False,False,False,False
+1402,2022-08-29 00:00:00,,"At 8:30 AM ET on Monday, August 29, 2022,the Vice President and Second Gentleman will view the Artemis I launch. The viewing will be pooled press.",True,open,False,False,False,False,False,False,False
+1401,2022-08-29 00:00:00,,"At 6:40 AM ET on Monday, August 29, 2022,the Vice President and Second Gentleman will depart Orlando, Florida en route to Kennedy Space Center, Florida. The departure from Orlando International Airport and arrival at NASA Shuttle Landing will be pooled press.",True,open,False,False,True,False,False,False,False
+1400,2022-08-29 00:00:00,,***Times subject to change based on launch timing and conditions,False,none,False,False,False,False,False,False,False
 1399,2022-08-26 00:00:00,,The Vice President has no public events scheduled.,False,none,False,False,False,False,False,False,False
 1397,2022-08-25 00:00:00,,The Vice President has no public events scheduled.,False,none,False,False,False,False,False,False,False
 1396,2022-08-24 00:00:00,,The Vice President has no public events scheduled.,False,none,False,False,False,False,False,False,False
